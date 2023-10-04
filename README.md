@@ -18,4 +18,4 @@ Note 2: The Editor UI refresh is triggered by the mouse leaving/entering a windo
 
 ## Exemple of generated CV
 
-<img src="./Generated/Clement-JANISSET_CV_2023_restricted.png" height="200"/>
+<img src="./Generated/Clement-JANISSET_CV_2023_restricted.png" width="100%"/>
